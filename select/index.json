@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "iDOLING",
+  "base_artist": "KEN MIYAKE",
+  "createdAt": "2026-02-14T06:47:43.692527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Big in Japan (feat. Idoling!!!)",
+      "artist": "Martin Solveig",
+      "has_synced": true,
+      "path": "select/01_Big_in_Japan_(feat._Idoling!!!)_Martin_Solveig.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Big In Japan (Feat. Dragonette & Idoling!!!)",
+      "artist": "Martin Solveig",
+      "has_synced": false,
+      "path": "select/02_Big_In_Japan_(Feat._Dragonette_&_Idoling!!!)_Martin_Solveig.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Big in Japan (with Dragonette feat. Idoling!!!)",
+      "artist": "Martin Solveig",
+      "has_synced": false,
+      "path": "select/03_Big_in_Japan_(with_Dragonette_feat._Idoling!!!)_Martin_Solveig.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Big in Japan (feat. Idoling!!!)",
+      "artist": "Martin Solveig",
+      "has_synced": false,
+      "path": "select/04_Big_in_Japan_(feat._Idoling!!!)_Martin_Solveig.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Martin Solveig & Dragonette Feat. Idoling!!!  Big In Japan",
+      "artist": "VA",
+      "has_synced": false,
+      "path": "select/05_Martin_Solveig_&_Dragonette_Feat._Idoling!!!__Big_In_Japan_VA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "iDOLING",
+      "artist": "KEN MIYAKE",
+      "has_synced": false,
+      "path": "select/06_iDOLING_KEN_MIYAKE.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Big in Japan feat. Idoling!!! with Dragonette",
+      "artist": "Martin Solveig",
+      "has_synced": true,
+      "path": "select/07_Big_in_Japan_feat._Idoling!!!_with_Dragonette_Martin_Solveig.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "iDOLING",
+      "artist": "KEN MIYAKE",
+      "has_synced": false,
+      "path": "select/pl_01_iDOLING_KEN_MIYAKE.txt"
+    }
+  ]
+}
